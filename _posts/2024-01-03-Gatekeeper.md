@@ -1,6 +1,6 @@
 ---
 title: Gatekeeper-writeup-THM
-date: 2024-01-03
+date: 2024-01-03 16:00:00
 categories: [room, medium]
 tags: [windows, privesc]     # TAG names should always be lowercase
 ---
