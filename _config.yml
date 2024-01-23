@@ -14,9 +14,9 @@ timezone: Europe/Rome
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Blue's CyberHub # the main title
+title: <span style="color:#36BCF7FF">Blue's CyberHub</span> # the main title
 
-tagline: 🔐 Penetration Tester in Training 💻 Application Security Explorer ✍️ Beginner with Writeups # it will display as the sub-title
+tagline: 🔐 <span style="color:white">Penetration Tester in Training</span> 💻 <span style="color:white">Application Security Explorer</span> ✍️ <span style="color:white">Beginner with Writeups</span> # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   My blog, where I will publish notes, writeups and cybersec related things. Mostly TryHackMe.
