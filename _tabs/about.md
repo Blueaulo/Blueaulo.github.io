@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&duration=3000&pause=500&random=false&width=435&lines=Hi%2C;I+am+a+pentest+student%2C;Currently+interning+in+AppSec)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Sans+Pro&weight=500&size=25&duration=3000&pause=1000&random=false&width=435&lines=Hi%2C;I+am+a+pentest+student%2C;Currently+interning+in+AppSec.)](https://git.io/typing-svg) 
 
 ### <span style="color:#36BCF7FF">Tools and programming languages that I use:</span>
 - AD: NetExec(CrackMapExec), Responder, PowerView, PowerUp, Mimikatz, Rubeus, PsExec, NtlmRelayx, Mit6, Bloodhound, SecretsDump, Chisel/Ligolo-ng

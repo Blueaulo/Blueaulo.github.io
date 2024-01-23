@@ -6,17 +6,17 @@
   /* Framework color */
   --main-bg: white;
   --mask-bg: #c1c3c5;
-  --main-border-color: #f3f3f3;
+  --main-border-color: #36BCF7FF;
 
   /* Common color */
   --text-color: #34343c;
   --text-muted-color: #757575;
   --text-muted-hightlight-color: inherit;
-  --heading-color: #2a2a2a;
+  --heading-color: #36BCF7FF;
   --label-color: #585858;
   --blockquote-border-color: #eeeeee;
   --blockquote-text-color: #757575;
-  --link-color: #0056b2;
+  --link-color: #36BCF7FF;
   --link-underline-color: #dee2e6;
   --button-bg: #ffffff;
   --btn-border-color: #e9ecef;
@@ -39,22 +39,22 @@
 
   /* Sidebar */
   --site-title-color: #36BCF7FF;
-  --site-subtitle-color: #ffffff;
+  --site-subtitle-color: #34343c;
   --sidebar-bg: #f6f8fa;
-  --sidebar-border-color: #efefef;
+  --sidebar-border-color: #36BCF7FF;
   --sidebar-muted-color: #545454;
-  --sidebar-active-color: #1d1d1d;
+  --sidebar-active-color: #36BCF7FF;
   --sidebar-hover-bg: rgb(223, 233, 241, 0.64);
   --sidebar-btn-bg: white;
-  --sidebar-btn-color: #8e8e8e;
-  --avatar-border-color: white;
+  --sidebar-btn-color: #36BCF7FF;
+  --avatar-border-color: #36BCF7FF;
 
   /* Topbar */
   --topbar-bg: rgb(255, 255, 255, 0.7);
   --topbar-text-color: rgb(78, 78, 78);
   --search-border-color: rgb(240, 240, 240);
-  --search-icon-color: #c2c6cc;
-  --input-focus-border-color: #b8b8b8;
+  --search-icon-color: #36BCF7FF;
+  --input-focus-border-color: #36BCF7FF;
 
   /* Home page */
   --post-list-text-color: dimgray;
@@ -62,9 +62,9 @@
   --btn-paginator-hover-color: var(--sidebar-bg);
 
   /* Posts */
-  --toc-highlight: #0550ae;
+  --toc-highlight: #36BCF7FF;
   --btn-share-color: gray;
-  --btn-share-hover-color: #0d6efd;
+  --btn-share-hover-color: #36BCF7FF;
   --card-bg: white;
   --card-hovor-bg: #e2e2e2;
   --card-shadow: rgb(104, 104, 104, 0.05) 0 2px 6px 0,
@@ -87,7 +87,7 @@
   --prompt-danger-icon-color: #df3c30;
 
   /* Tags */
-  --tag-border: #dee2e6;
+  --tag-border: #36BCF7FF;
   --tag-shadow: var(--btn-border-color);
   --tag-hover: rgb(222, 226, 230);
   --search-tag-bg: #f8f9fa;
