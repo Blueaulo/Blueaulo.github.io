@@ -10,9 +10,10 @@
 #- type: twitter
 #  icon: "fa-brands fa-x-twitter"
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+- type: tryhackme
+  icon: 'fas fa-gamepad'
+  url: 'https://tryhackme.com/p/SimoneF9'
+   # open link in current tab
 
 - type: rss
   icon: "fas fa-rss"
