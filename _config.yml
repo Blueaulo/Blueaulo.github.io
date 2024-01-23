@@ -14,7 +14,7 @@ timezone: Europe/Rome
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: <span style="color:#36BCF7FF">Blue's CyberHub</span> # the main title
+title: Blue's CyberHub # the main title
 
 tagline: 🔐 <span style="color:white">Penetration Tester in Training</span> 💻 <span style="color:white">Application Security Explorer</span> ✍️ <span style="color:white">Beginner with Writeups</span> # it will display as the sub-title
 
