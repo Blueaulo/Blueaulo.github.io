@@ -3,6 +3,7 @@ title: DailyBugle-writeup-THM
 date: 2024-01-01 10:00:00
 categories: [room, hard]
 tags: [joomla]     # TAG names should always be lowercase
+image: https://raw.githubusercontent.com/Blueaulo/DailyBugle-writeup-THM/main/99236161-baab-4e1e-8659-b58dbee818de_Export-bd191e58-92d7-4a75-b58b-142788c8928f/Daily%20Bugle%20f7664d233b7c4054a261e00462332c48/Untitled.png
 ---
 My writeup of the TryHackMe room "<a href="https://tryhackme.com/room/dailybugle">DailyBugle</a>"
 
