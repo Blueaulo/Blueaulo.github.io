@@ -93,7 +93,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: Blueaulo/simonefelici.github.io # <gh-username>/<repo>
+    repo: SimoneFelici/simonefelici.github.io # <gh-username>/<repo>
     repo_id: R_kgDOLIPVqA
     category: General
     category_id: DIC_kwDOLIPVqM4Ccox_
