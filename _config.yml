@@ -13,7 +13,7 @@ timezone: Europe/Rome
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
-
+<meta name="google-site-verification" content="lufaM3CPd_J8dFsmaP4N4fPBEHmCI-_XJH9tF1EIz9A" />
 title: Blue's CyberHub # the main title
 
 tagline: 🔐 Penetration Tester in Training 💻 Intern in Application Security ✍️ Beginner with Writeups # it will display as the sub-title
