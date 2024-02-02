@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
+icon: fas dollar-sign
 order: 4
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Sans+Pro&weight=500&size=25&duration=3000&pause=1000&random=false&width=435&lines=Hi%2C;I+am+a+pentest+student%2C;Currently+interning+in+AppSec.)](https://git.io/typing-svg) 
