@@ -3,7 +3,7 @@
 icon: fa fa-dollar-sign
 order: 4
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Sans+Pro&size=25&duration=2500&pause=1000&color=36BCF7FF&multiline=true&repeat=false&random=false&width=435&height=105&lines=Hi%2C;I+am+Simone!;I+am+a+pentest+student%2C;Currently+interning+in+AppSec.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Sans+Pro&size=25&duration=2500&pause=1000&multiline=true&repeat=false&random=false&width=435&height=105&lines=Hi%2C;I+am+Simone!;I+am+a+pentest+student%2C;Currently+interning+in+AppSec.)](https://git.io/typing-svg)
 
 ### <span style="color:#36BCF7FF">Tools and programming languages that I use:</span>
 - AD: NetExec(CrackMapExec), Responder, PowerView, PowerUp, Mimikatz, Rubeus, PsExec, NtlmRelayx, Mit6, Bloodhound, SecretsDump, Chisel/Ligolo-ng
