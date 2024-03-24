@@ -17,13 +17,10 @@ order: 4
 - 2° Place Apulia Cybersecurity Hackathon 2023
 
 ### <span style="color:#36BCF7FF">Academics and Certifications:</span>
+- <a href= "https://certs.ine.com/5e071065-f007-41fc-8d82-a8d4dac83cd4">Junior Penetration Tester</a>
 - <a href="https://www.credly.com/badges/38e30f04-ed85-4ad8-ba9c-fb99bbe56d7e/linked_in_profile">Certified in Cybersecurity (CC)</a>
 - European Higher Technician Diploma in Cybersecurity
 - Technical Institute Diploma - Technological Sector with specialization in Informatics
-- Currently studying for the eJPT
+
 
 <script src="https://tryhackme.com/badge/2023674"></script>
-
-
-
-
