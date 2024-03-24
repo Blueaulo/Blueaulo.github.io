@@ -1538,3 +1538,16 @@ search {
     }
   }
 } /* min-width: 1650px */
+.btn:hover {
+  background-color: #36bcf7 !important;
+}
+
+.btn.btn-outline-primary {
+  &:not(.disabled):hover {
+    border-color: #36bcf7 !important;
+  }
+}
+
+%text-clip {
+  -webkit-line-clamp: 1;
+}
