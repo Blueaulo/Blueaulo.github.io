@@ -2,6 +2,7 @@
 # the default layout is 'page'
 icon: fa fa-dollar-sign
 order: 4
+title: ~$ whoami
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Sans+Pro&size=24&duration=2500&pause=1000&multiline=true&repeat=false&random=false&width=435&height=122&lines=Hi%2C;I+am+Simone!;I+am+a+pentest+student%2C;Currently+interning+in+AppSec.)](https://git.io/typing-svg)
 
