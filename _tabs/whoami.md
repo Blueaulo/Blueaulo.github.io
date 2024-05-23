@@ -13,9 +13,10 @@ title: ~$ whoami
 - Python, C++, SQL, HTML, git
 
 ### <span style="color:#36BCF7FF">Accomplishments:</span>
-- 4° Place CDP Cyberchallenge 2023
-- 2° Place ITS 4.0 2023 (DigitalService category)
-- 2° Place Apulia Cybersecurity Hackathon 2023
+- 4° Place "CDP Cyberchallenge 2023" 
+- 2° Place "ITS 4.0 2023 (DigitalService category)"([Event](https://www.miur.gov.it/-/its-4-0-day-2023-presentati-46-progetti-di-innovazione-digitale-sviluppati-da-oltre-800-studenti-its-per-le-imprese-del-made-in-italy-nell-ambito-del-)/[Game](https://www.its40.it/wp/portfolio_page/games-bond/))
+- 5° Place "Let's Cyber Game" ([Event](https://www.mimit.gov.it/it/notizie-stampa/lets-cyber-game-shard-tower-alcadata-e-bean-team-vincono-il-contest-nazionale-per-la-cybersicurezza-promosso-dal-mimit)/[Game](https://itsusgame.github.io/rIoT/))
+- 2° Place "Apulia Cybersecurity Hackathon 2023"
 
 ### <span style="color:#36BCF7FF">Academics and Certifications:</span>
 - <a href= "https://certs.ine.com/5e071065-f007-41fc-8d82-a8d4dac83cd4">Junior Penetration Tester</a>
