@@ -27,4 +27,4 @@ title: ~$ whoami
 
 <script src="https://tryhackme.com/badge/2023674"></script>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2023674" style='border:none;'></iframe>
+<!--<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2023674" style='border:none;'></iframe>-->
