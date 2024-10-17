@@ -10,7 +10,7 @@ title: ~$ whoami
 - AD: NetExec(CrackMapExec), Responder, PowerView, PowerUp, Mimikatz, Rubeus, PsExec, NtlmRelayx, Mit6, Bloodhound, SecretsDump, Chisel/Ligolo-ng
 - BurpSuite, OWASP ZAP, Nessus, SonarQube/Sonar-Scanner, Hashcat/John, SQLmap,  Nmap, Netcat, WPscan/joomscan, Dirbuster, fuff, OWASP Amass
 - Forensics: Wireshark, Volatility, Immunity Debugger+ mona.py, adb, Ghidra, gdb
-- Python, C++, SQL, HTML, git
+- Python, C, MySQL, C++, git, HTML/CSS
 
 ### <span style="color:#36BCF7FF">Accomplishments:</span>
 - "Cyberchallenge.IT" Finalist / 3° Place in the local competition with RomaTre
