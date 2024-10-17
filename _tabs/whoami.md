@@ -13,6 +13,7 @@ title: ~$ whoami
 - Python, C++, SQL, HTML, git
 
 ### <span style="color:#36BCF7FF">Accomplishments:</span>
+- Cyberchallenge.IT Finalist | 3° Place in the local competition with RomaTre
 - 4° Place "CDP Cyberchallenge 2023" 
 - 2° Place "ITS 4.0 2023 (DigitalService category)"([Event](https://www.miur.gov.it/-/its-4-0-day-2023-presentati-46-progetti-di-innovazione-digitale-sviluppati-da-oltre-800-studenti-its-per-le-imprese-del-made-in-italy-nell-ambito-del-)/[Game](https://www.its40.it/wp/portfolio_page/games-bond/))
 - 5° Place "Let's Cyber Game" ([Event](https://www.mimit.gov.it/it/notizie-stampa/lets-cyber-game-shard-tower-alcadata-e-bean-team-vincono-il-contest-nazionale-per-la-cybersicurezza-promosso-dal-mimit)/[Game](https://itsusgame.github.io/rIoT/))
