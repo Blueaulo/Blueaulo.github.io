@@ -16,7 +16,7 @@ timezone: Europe/Rome
 
 title: Blue's CyberHub # the main title
 
-tagline: 🔐 Penetration Tester 💻 42Rome Student ✍️ CTF Player # it will display as the sub-title
+tagline: 🔐 Penetration Tester   💻 42Rome Student ✍️ CTF Player # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   My blog, where I will publish notes, writeups and cybersec related things. Mostly TryHackMe.
